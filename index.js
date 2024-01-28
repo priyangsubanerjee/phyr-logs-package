@@ -1,6 +1,8 @@
 class Logger {
   constructor(sid, pid) {
     this.success = function (key = "", description = "") {
+      if (sid == null || pid == null)
+        throw new Error("Session ID or Project ID is null");
       if (key.length == 0) {
         throw new Error("Log key parameter is empty");
       } else if (key == null) {

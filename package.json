@@ -1,6 +1,6 @@
 {
   "name": "phyrlogs",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Online logger tool for your nodejs application",
   "main": "index.js",
   "scripts": {
