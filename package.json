@@ -1,0 +1,23 @@
+{
+  "name": "phyrlogs",
+  "version": "1.0.12",
+  "description": "Online logger tool for your nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyangsubanerjee/phyr-logs-package.git"
+  },
+  "keywords": [
+    "logger",
+    "logs"
+  ],
+  "author": "Priyangsu Banerjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyangsubanerjee/phyr-logs-package/issues"
+  },
+  "homepage": "https://github.com/priyangsubanerjee/phyr-logs-package#readme"
+}
